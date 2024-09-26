@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "next-app": "pnpm --filter=next-app",
-    "docu-app": "pnpm --filter=docu-app"
+    "docu-app": "pnpm --filter=docu-app",
+    "blog-app": "pnpm --filter=blog-app"
   },
   "keywords": [],
   "author": "",

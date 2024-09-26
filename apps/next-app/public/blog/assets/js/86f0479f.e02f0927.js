@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_app=self.webpackChunkblog_app||[]).push([[825],{2695:a=>{a.exports=JSON.parse('{"tag":{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
